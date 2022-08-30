@@ -12,7 +12,8 @@
 001200 01  SCREEN-TITLES.                                               cscrnhdd
 001300   05  SCREEN-TITLE1                         PIC X(50)            cscrnhdd
 001400       VALUE '                                                  '.cscrnhdd
-001500*             00000000011111111112222222222333333333344444444445'.cscrnhdd
+001500*        122     
+               00000000011111111112222222222333333333344444444445'.     cscrnhdd
 001600*      VALUE '12345678901234567890123456789012345678901234567890'.cscrnhdd
 001700   05  SCREEN-TITLE2                         PIC X(50)            cscrnhdd
 001800       VALUE '                                                  '.cscrnhdd
