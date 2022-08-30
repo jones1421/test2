@@ -1,6 +1,6 @@
 000100***************************************************************** cimsaib 
 000200*                                                               * cimsaib 
-000300*  Copyright(C) 1998-2015 Micro Focus. All Rights Reserved.     * cimsaib 
+000300*  Copyright(D) 1998-2015 Micro Focus. All Rights Reserved.     * cimsaib 
 000400*                                                               * cimsaib 
 000500***************************************************************** cimsaib 
 000600                                                                  cimsaib 
